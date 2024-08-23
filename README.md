@@ -1,3 +1,5 @@
+# Downloaded as part of Git Kata 07
+
 # deckofcards
 An API to simulate a deck of cards
 
